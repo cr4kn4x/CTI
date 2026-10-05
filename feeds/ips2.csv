@@ -1,0 +1,11 @@
+################################################################
+# IPs                                                          #
+# Last updated: 2026-12-12 11:11:11 UTC                        #
+#                                                              #
+# Terms Of Use: ......                                         #
+# For questions please contact ....                            #
+################################################################
+#
+"first_seen_utc","dst_ip","dst_port","c2_status","last_online","malware"
+"2022-06-12 21:24:53","162.243.103.226","8080","offline","2026-11-01","Emotet 2"
+# END 5 entries
